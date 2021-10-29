@@ -1,0 +1,70 @@
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\source\repos\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
+C:\Users\Userr\source\repos\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (2)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (3)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.exe
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.deps.json
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\bin\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.AssemblyReference.cache
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.dll
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.pdb
+C:\Users\Userr\Desktop\bash\UC1 (4)\LambdaExpressionDemo\obj\Debug\netcoreapp3.1\LambdaExpressionDemo.genruntimeconfig.cache
